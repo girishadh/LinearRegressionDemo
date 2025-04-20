@@ -5,7 +5,8 @@ This project demonstrates **Linear Regression** using Python's **NumPy** and **M
 ### How it works:
 - **Data**: Hours studied vs Exam scores.
 - **Method**: Calculating the best-fit line using linear regression.
-- **Libraries Used**: NumPy, Matplotlib
+- **Libraries Used**: NumPy, Matplotlib, Pandas
+  
 
 ### Steps to Run:
 1. Install dependencies:  
